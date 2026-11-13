@@ -3,7 +3,6 @@
 ## Launch
 
 This is a static website and requires no build step. To host it with GitHub Pages:
-
 The HTML, CSS, and JavaScript files need to stay together in the repository root.
 
 ## About this project
